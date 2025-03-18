@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    # active: prod
+    active: prod 
+    # dev
+
+application:
+  title: SecureCapita
+  version: 1.0
